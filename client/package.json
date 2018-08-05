@@ -8,8 +8,11 @@
     }
   },
   "dependencies": {
+    "@material-ui/core": "^1.4.3",
     "axios": "^0.18.0",
+    "install": "^0.12.1",
     "materialize-css": "^0.100.2",
+    "npm": "^6.3.0",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
     "react-redux": "^5.0.7",
